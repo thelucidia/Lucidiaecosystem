@@ -1,0 +1,46 @@
+{
+  "worldList": [
+    {
+      "title": "curse of the pharaoh",
+      "desc": "Pulse-pounding action, earn $LUCID Tokens, crush undead hordes, ultimate survival.",
+      "image": "zombie",
+      "path": "/games/curse-of-the"
+    },
+    {
+      "title": "cryptocraft",
+      "desc": "Shape limitless worlds, earn $LUCID Tokens, unleash creativity, adventure awaits!",
+      "image": "minecraft",
+      "path": "/games/cryptocraft"
+    },
+    {
+      "title": "sandstorm racers",
+      "desc": "Take a ride through the night skyline, race with your friends and attend virtual events",
+      "image": "cyber",
+      "path": "/games/sandstorm"
+    },
+    {
+      "title": "desert warriors",
+      "desc": "Engage in the battle and complete missions to earn $LUCID Tokens.",
+      "image": "fps",
+      "path": "/games/desert"
+    }
+  ],
+  "comingsoon": [
+    {
+      "title": "embryo lab",
+      "image": "lab"
+    },
+    {
+      "title": "Eco city",
+      "image": "eco"
+    },
+    {
+      "title": "tekcida",
+      "image": "tekcida"
+    },
+    {
+      "title": "nft racing",
+      "image": "nftracing"
+    }
+  ]
+}

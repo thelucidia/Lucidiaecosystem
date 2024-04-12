@@ -1,0 +1,32 @@
+{
+  "stats": [
+    {
+      "prefix": "$",
+      "suffix": "k",
+      "start": 400,
+      "end": 420,
+      "desc": "TO BE UNLOCKED BY USERS"
+    },
+    {
+      "prefix": "",
+      "suffix": "M",
+      "start": 0,
+      "end": 15,
+      "desc": "IN GAME ASSETS"
+    },
+    {
+      "prefix": "",
+      "suffix": "+",
+      "start": 0,
+      "end": 4,
+      "desc": "GAME INSIDE THE ECOSYSTEM"
+    },
+    {
+      "suffix": "",
+      "prefix": "",
+      "start": 0,
+      "end": 20,
+      "desc": "MAPS"
+    }
+  ]
+}
